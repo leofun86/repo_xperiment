@@ -1,7 +1,7 @@
 * {
     font-family:arial;
 }
-h1 { color:white; text-shadow: 5px 5px 10px #333; }
+h1 { color:white; text-shadow: 5px 5px 10px #333; text-shadow: 4px 4px 5px #222; }
 td {
     padding:10px 12px; color: white;
     border-radius:3px; background-color: #1979a9;
