@@ -1,0 +1,8 @@
+* {
+    font-family:arial;
+}
+td {
+    padding:10px 12px; color: white;
+    border-radius:3px; background-color: #1979a9;
+}
+.cabecera-tabla >td { background-color:#042f66!important; text-align:center; font-weight: bolder; }
