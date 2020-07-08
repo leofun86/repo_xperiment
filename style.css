@@ -1,14 +1,5 @@
-* {
-    font-family:arial;
-}
+* { font-family:arial; }
 h1 { color:white; }
-td {
-    padding:10px 12px; color: white;
-    border-radius:3px; background-color: #1979a9;
-}
+td { padding:10px 12px; color: white; border-radius:3px; background-color: #1979a9; }
 .cabecera-tabla >td { background-color:#042f66!important; text-align:center; font-weight: bolder; }
-
-body {
-    background-image: url('assets/background.jpg');
-    background-repeat: no-repeat; background-size: cover;
-}
+body { background-image: url('assets/background.jpg'); background-repeat: no-repeat; background-size: cover; }
