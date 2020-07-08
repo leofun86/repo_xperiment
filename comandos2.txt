@@ -1,7 +1,0 @@
-git status				muestra el estado los archivos (stage y unstage)
-git add	archivo/carpeta			agrega un archivo para subir al repositorio
-git add .				agrega todos los archivos en estado unstage
-git commit				identifica los cambios en el espacio de trabajo
-git commit -m				identifica los cambios con un mensaje descriptivo
-git restore --stage archivo/carpeta	restaura el archivo/carpeta agregado a la cola de subida al estado unstage
-git reset HEAD archivo/carpeta		eliminar un archivo/carpeta de la cola de subida
